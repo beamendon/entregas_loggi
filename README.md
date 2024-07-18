@@ -11,4 +11,4 @@ O Loggi Benchmark for Urban Deliveries (BUD) é um repositório do GitHub (https
 ### Como usar
 - Importar do Github da LoggiBUD a base de dados;
 - Criar dois arquivos vazios chamados: cvrp.json e deliveries.json
-- Fazer uma cópia do código e rodar.
+- Fazer uma cópia do código loggi_desafio.ipynb e rodar.
